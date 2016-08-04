@@ -1,0 +1,28 @@
+_repo: The-Confutatio-Pontificia_853
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Reu, Johann Michael
+    aliases:
+    - Reu, J. Michael (Johann Michael)
+    - Reu, Michael
+    birthdate: 1869
+    deathdate: 1943
+    gutenberg_agent_id: '447'
+    url: http://www.gutenberg.org/2009/agents/447
+    wikipedia: http://en.wikipedia.org/wiki/Johann_Michael_Reu
+description: ''
+gutenberg_issued: '1997-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '853'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Protestantism'
+- !lcc 'BX'
+- GITenberg
+title: The Confutatio Pontificia
+url: http://www.gutenberg.org/ebooks/853
