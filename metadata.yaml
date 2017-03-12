@@ -1,5 +1,8 @@
 _repo: The-Confutatio-Pontificia_853
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   editor:
     agent_name: Reu, Johann Michael
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/447
     wikipedia: http://en.wikipedia.org/wiki/Johann_Michael_Reu
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/853#The-Confutatio-Pontificia
 gutenberg_issued: '1997-03-01'
 gutenberg_type: Text
 identifiers:
